@@ -1,0 +1,14 @@
+hoge	HOGE
+piyo	PIYO
+hage	HAGE
+fuga	FUGA
+foo	FOO
+bar	BAR
+the	THE
+quick	QUICK
+brown	BROWN
+fox	FOX
+jump	JUMP
+over	OVER
+lazy	LAZY
+dog	DOG
